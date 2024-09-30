@@ -68,13 +68,20 @@ div {
     border: 4px solid #3882f6; 
     border-radius: 15%;
   }
-.quote {
+
+.quote-area{
     background-color: #e5e7eb;
+}
+.quote,
+.source { 
     text-align: center;
     font-size: 36px;
-    font-style: italic;
     color: #1f2937;
 }
 .source {
-
+    font-weight: bold;
+    text-align: right;
+}
+.quote {
+    font-style: italic;
 }
