@@ -85,3 +85,7 @@ div {
 .quote {
     font-style: italic;
 }
+.action-area{
+    margin:100px;
+    background-color: #3882f6;
+}
