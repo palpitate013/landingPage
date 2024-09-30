@@ -9,6 +9,9 @@
     padding: 6px;
     display: flex;
 }
+.item {
+    flex: 1;
+}
 .hero-main-text {
     font-size: 48px;
     color: #f9faf8;
@@ -25,5 +28,8 @@
 .link {
     flex-basis: 15%;
     font-size: 18px;
+    color: #e5e7eb;
+}
+.placeholder {
     color: #e5e7eb;
 }
