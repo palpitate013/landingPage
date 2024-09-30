@@ -94,10 +94,14 @@ div {
 .action-square{
     border:20px;
     align-items: center;
-    
     border-radius: 10px;
 }
 .action-button{
     flex-shrink: 1;
     border: 2px solid white;
+}
+.footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
 }
