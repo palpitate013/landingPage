@@ -60,6 +60,7 @@ div {
     font-size: 36px;
     font-weight: 900;
     background-color: white;
+    padding: 20px;
 }
 .square {
     width: 100px;
